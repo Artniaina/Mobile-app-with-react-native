@@ -1,2 +1,2 @@
-# react-native-lesy-e
-ToT Pets Managment  XD
+# react-native
+Pets Managment and adoption
